@@ -37,7 +37,6 @@ class _MyAppState extends State<MyApp> {
   @override
   void initState() {
     super.initState();
-    FlutterBugly.init(androidAppId: "d9ab8539e3", iOSAppId: "8463b5d7af");
   }
 
   // Platform messages are asynchronous, so we initialize in an async method.
