@@ -6,7 +6,6 @@ import android.graphics.BitmapFactory;
 import android.graphics.Point;
 import android.os.Build;
 
-import androidx.annotation.RequiresApi;
 
 import com.baidu.ai.edge.core.infer.InferConfig;
 import com.baidu.ai.edge.core.infer.InferManager;
